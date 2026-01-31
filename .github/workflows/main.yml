@@ -44,4 +44,3 @@ jobs:
       # download dependencies, etc, so test log looks better
       run: mvn -B install
 
-
